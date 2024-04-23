@@ -1,0 +1,1 @@
+expect fun openWebBrowser(url: String): Boolean
